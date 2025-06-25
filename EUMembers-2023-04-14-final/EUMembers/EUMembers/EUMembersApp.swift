@@ -17,7 +17,7 @@ let greatBritain = Country(code: "GB", name: "Great Britain", area: 248_528, pop
 struct EUMembersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView(country: finland)
+            ContentView(country: austria)
         }
     }
 }

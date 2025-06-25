@@ -7,7 +7,8 @@
 
 import Foundation
 
-struct Country {
+struct Country: Identifiable, Hashable {
+    var id: String { code } 
     var code: String
     var name: String
     var area: Int
