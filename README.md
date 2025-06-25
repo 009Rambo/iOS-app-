@@ -37,7 +37,7 @@ https://european-union.europa.eu/principles-countries-history/country-profiles_e
 ## Preview
 ## App Screenshot
 
-![App Screenshot](Resources/screenshot.png)
+![App Screenshot](Resources/Screenshot.png)
 
 
 
