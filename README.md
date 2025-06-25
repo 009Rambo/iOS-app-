@@ -35,4 +35,9 @@ https://european-union.europa.eu/principles-countries-history/country-profiles_e
 4. Use the button to open the Wikipedia page for more information about the selected country.
 
 ## Preview
-Preview will be available very shortly. Please visit this project again !
+## App Screenshot
+
+![App Screenshot](Resources/screenshot.png)
+
+
+
